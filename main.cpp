@@ -134,7 +134,11 @@ using namespace std;
 int main(int argc,char** argv)
 {
 
-
+      if(argc!=2)
+  {
+      std::cout<<"input the right file path"<<std::endl;
+      return -1;
+}
     const std::string file=argv[1];
     const std::string outputrgb="/home/dl/rgb/";
     const std::string outputdep="/home/dl/dep/";
