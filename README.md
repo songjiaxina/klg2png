@@ -1,12 +1,12 @@
 # klg2png
-This is a small tool to change klg-formatted file for running ElasticFusion to OpenCV Mat image
+This is a small tool to change klg-formatted file for running ElasticFusion to OpenCV Mat image. And you can use this to visualize the image and save as *png* format
 
 ##  What do I need to build it?
 To build this demo .You need the follwings:  
   #### zlib  
   #### libjpeg   
   #### OpenCV 
-  You can install the zlib and libjpeg by this:  
+  You can install the *zlib* and *libjpeg* by this:  
 ```
 sudo apt-get install zlib1g-dev libjpeg-dev
 ```
