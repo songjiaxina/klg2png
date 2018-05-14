@@ -18,4 +18,4 @@ sudo apt-get install zlib1g-dev libjpeg-dev
  ./klg2png  your-klg-file
 ```
  ##  Result
- 
+ ![](https://raw.githubusercontent.com/songjiaxina/klg2png/master/1.png)  
